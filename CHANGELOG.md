@@ -1,3 +1,7 @@
+# v1.0.3
+
+- enable all permissions
+
 # v1.0.2
 
 - Updated call recorder to 1.7.14 (220)
