@@ -14,12 +14,11 @@ Minimum supported API is 19 (Android 4.4). This module is probably not needed on
 
 ## How to use
 
-* Install the module using Magisk Manager (either by downloading the module within the app
-or by manually downloading [a zip from releases](https://github.com/di72nn/callrecorder-axet/releases)).
+* Download the [latest release](https://github.com/akaessens/callrecorder-axet/releases/latest/download/callrecorder-axet.zip) and install the module using Magisk.
 * Reboot.
 * Open Call Recorder, modify settings as desired (you might want to leave "Recording Source" on "Auto";
 there's **NO** need to use root (for "System Mixer Incall Recording") in the app).
-* Activate call recording by checking the "Calls Recording" checkmark, grant requested permissions.
+* Activate call recording by checking the "Calls Recording" checkmark.
 * Enjoy!
 
 
