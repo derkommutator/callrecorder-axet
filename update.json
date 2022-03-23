@@ -1,6 +1,6 @@
 {
-    "version": "v1.0.3",
-    "versionCode": 10030,
+    "version": "v1.0.4",
+    "versionCode": 10040,
     "zipUrl": "https://github.com/akaessens/callrecorder-axet/releases/latest/download/callrecorder-axet.zip",
     "changelog": "https://raw.githubusercontent.com/akaessens/callrecorder-axet/master/CHANGELOG.md"
 }

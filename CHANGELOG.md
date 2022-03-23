@@ -1,3 +1,7 @@
+# v1.0.4
+
+- Updated call recorder to 1.8.3 (224)
+
 # v1.0.3
 
 - enable all permissions
